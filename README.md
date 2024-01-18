@@ -77,7 +77,7 @@ http://google.com
 
 ![Kuet Picture](kuet.png)
 
-<img src="keut.png"/>
+<img src="keut.PNG"/>
 
 | Name | Email |
 | -------- | ----- |
